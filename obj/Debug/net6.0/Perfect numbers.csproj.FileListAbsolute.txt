@@ -1,0 +1,15 @@
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\bin\Debug\net6.0\Perfect numbers.exe
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\bin\Debug\net6.0\Perfect numbers.deps.json
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\bin\Debug\net6.0\Perfect numbers.runtimeconfig.json
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\bin\Debug\net6.0\Perfect numbers.dll
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\bin\Debug\net6.0\Perfect numbers.pdb
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.csproj.AssemblyReference.cache
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.AssemblyInfoInputs.cache
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.AssemblyInfo.cs
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.csproj.CoreCompileInputs.cache
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.dll
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\refint\Perfect numbers.dll
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.pdb
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\Perfect numbers.genruntimeconfig.cache
+D:\test projects\c#\Tasks\Descrete\Perfect numbers\Perfect numbers\obj\Debug\net6.0\ref\Perfect numbers.dll
